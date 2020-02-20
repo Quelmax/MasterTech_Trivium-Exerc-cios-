@@ -7,7 +7,7 @@ i = 0
 while i == 0:
   try:
       r = float(input('Digite um raio: '))
-  except:
+  except ValueError:
       print ('\nVocê não digitou um número, por favor entre com um número\n')
   else: 
     i = 1
