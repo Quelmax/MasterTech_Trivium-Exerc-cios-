@@ -12,9 +12,6 @@ while i == 0:
   else: 
     i = 1
   
-
-
-
 area = pi * (r * r)
 comp = 2 * (pi * r)
 
