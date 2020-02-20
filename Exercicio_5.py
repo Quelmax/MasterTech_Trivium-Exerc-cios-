@@ -25,8 +25,3 @@ r = entrada_usuario()
 area = calculo_area(r)
 comp = calculo_comprimento(r)
 print("\nA area de uma circunferência com raio",r, "é de", area, ",e o comprimento é de {}.".format(comp))
-
-
-
-
-
